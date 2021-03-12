@@ -1,4 +1,4 @@
-module github.com/cosmos/cosmos-sdk
+module github.com/alexp404/starport
 
 go 1.15
 
