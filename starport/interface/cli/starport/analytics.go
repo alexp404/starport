@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/Pallinder/go-randomdata"
-	"github.com/tendermint/starport/starport/internal/version"
+	"github.com/tendermint/starport/starport/internal/version/"
 	"github.com/tendermint/starport/starport/pkg/gacli"
 )
 

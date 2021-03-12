@@ -89,6 +89,7 @@ require (
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/spn v0.0.0-20210301102236-37bda06317f6
+	github.com/tendermint/starport v0.14.0
 	github.com/tendermint/tendermint v0.34.8
 	github.com/ugorji/go v1.2.4 // indirect
 	github.com/xanzy/ssh-agent v0.3.0 // indirect
