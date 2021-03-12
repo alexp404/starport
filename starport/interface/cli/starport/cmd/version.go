@@ -1,4 +1,4 @@
-package version
+package starportcmd
 
 import (
 	"fmt"

@@ -82,7 +82,7 @@ func networkChainJoinHandler(cmd *cobra.Command, args []string) error {
 		denom         = "stake"
 	)
 	if info.Config.Validator.Staked != "" {
-		if c, err := types.ParseCoin(info.Config.Validator.Staked); err == nil {
+		if c, err := types.ParseCoins(info.Config.Validator.Staked); err == nil {
 			denom = c.Denom
 		}
 	}
