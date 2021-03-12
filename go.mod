@@ -1,4 +1,4 @@
-module github.com/tendermint/starport
+module github.com/alexp404/starport
 
 go 1.15
 
