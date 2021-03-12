@@ -1,4 +1,4 @@
-module github.com/tendermint/starport
+module github.com/cosmos/cosmos-sdk
 
 go 1.15
 
