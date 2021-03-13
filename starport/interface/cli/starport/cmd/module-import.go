@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/spf13/cobra"
-	"github.com/tendermint/starport/starport/services/scaffolder"
+	"github.com/alexp404/starport/starport/services/scaffolder"
 )
 
 // NewModuleImport creates a new command to import an sdk module.

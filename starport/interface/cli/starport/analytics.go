@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/Pallinder/go-randomdata"
-	"github.com/tendermint/starport/starport/internal/version"
-	"github.com/tendermint/starport/starport/pkg/gacli"
+	"github.com/alexp404/starport/starport/internal/version"
+	"github.com/alexp404/starport/starport/pkg/gacli"
 )
 
 const (

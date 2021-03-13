@@ -5,6 +5,7 @@ go 1.15
 require (
 	github.com/AlecAivazis/survey/v2 v2.2.9
 	github.com/ChainSafe/go-schnorrkel v0.0.0-20210222182958-bd440c890782 // indirect
+	github.com/CosmWasm/wasmd v0.14.1-0.20210113091717-f9015cba4793 // indirect
 	github.com/DataDog/zstd v1.4.8 // indirect
 	github.com/Microsoft/go-winio v0.4.16 // indirect
 	github.com/Netflix/go-expect v0.0.0-20201125194554-85d881c3777e // indirect
